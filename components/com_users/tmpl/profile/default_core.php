@@ -14,6 +14,7 @@ use Joomla\CMS\HTML\HTMLHelper;
 use Joomla\CMS\Language\Text;
 
 ?>
+
 <fieldset id="users-profile-core" class="com-users-profile__core">
     <legend>
         <?php echo Text::_('COM_USERS_PROFILE_CORE_LEGEND'); ?>
